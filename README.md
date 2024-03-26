@@ -1,5 +1,7 @@
 # kafka 🚰
 
+[![test](https://github.com/GrantBirki/kafka/actions/workflows/test.yml/badge.svg)](https://github.com/GrantBirki/kafka/actions/workflows/test.yml)
+
 Spin up a full kafka stack with docker-compose
 
 All of the original docs for this project can be found [here](docs/original.md)
