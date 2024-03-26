@@ -1,7 +1,5 @@
 # original filename: zk-multiple-kafka-multiple-schema-registry.yml
 
-version: '2.1'
-
 services:
   zoo1:
     image: confluentinc/cp-zookeeper:7.3.2

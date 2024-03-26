@@ -23,7 +23,5 @@ jobs:
       - name: install kafka binary
         run: sudo apt-get install confluent-platform-oss-2.11
 
-      - uses: docker-practice/actions-setup-docker@master
-
       - name: run test multiple-schema-registry 7
         run: script/test docker-compose.yml 7
